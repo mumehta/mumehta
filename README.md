@@ -36,7 +36,7 @@ I’ve built secure, cost-effective platforms using AWS, GitLab CI/CD, Docker, a
 
 - Building developer platforms with **automated security baked in**
 - Exploring AI/ML transition paths with Python & data science
-- Publishing **technical blogs** and tutorials (soon on [https://www.munish-mehta.com](https://www.munish-mehta.com))
+- Publishing **technical blogs** and tutorials [https://www.munish-mehta.com](https://www.munish-mehta.com)
 
 ---
 

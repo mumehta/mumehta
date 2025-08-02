@@ -66,7 +66,7 @@ I’ve built secure, cost-effective platforms using AWS, GitLab CI/CD, Docker, a
 ### 📈 GitHub Stats
 ![Munish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumehta&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mumehta&layout=compact)
-![GitHub Stats](https://mumehta-stats-mumehtas-projects.vercel.app/api?username=mumehta&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Stats](https://mumehta-stats-mumehtas-projects.vercel.app/api?username=mumehta&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800)
 - **Public Repos:** 54
 - **Public Gists:** 2
 - **Followers:** 0

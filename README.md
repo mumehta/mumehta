@@ -7,18 +7,28 @@
 
 ## 🔧 About Me
 
+**AI-First Engineer** | **I Don’t Just Build Features — I Design Systems Where Humans and AI Collaborate.**
+
 I’m currently working as a **Senior DevOps Engineer at Service NSW**, where I streamline CI/CD pipelines, optimize cloud infrastructure, and lead security automation efforts. With 20 years of experience across software development and DevOps, I bridge business needs and engineering with hands-on delivery.
 
 I’ve built secure, cost-effective platforms using AWS, GitLab CI/CD, Docker, and Terraform — and I’m always looking for ways to improve developer experience and deployment velocity.
+
+I identifies myself as someone 
+- 🔥 Who is Full Stack Developer Who Codes Like an Engineer, Thinks Like a System Designer, and Works Like a Founder.
+- 🚀 I Don’t Fear AI — I Architect It. Supervised, Reliable, Production-Ready.
+- 💡 I Don’t Ship Code — I Ship Intelligent, Maintainable Systems That Make AI Make Sense.
+- 🛠️ Built the Frontend, Tamed the Backend, and Now I’m Teaching AI to Be a Team Player.
+- ⚙️ From Figma to Flutter to Fine-Tuned AI — I Turn Chaos into Clean, Scalable Software.
+- 🧠 Full Stack by Trade. AI-Native by Mindset. Remote-Ready by Design.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Cloud**: AWS (WAF, Shield, IAM, Route 53, EC2, Lambda, S3, CloudFormation)
-- **CI/CD**: GitLab CI/CD, GitHub Actions
+- **CI/CD**: GitLab CI/CD, GitHub Actions, Bitbucket pipelines
 - **Containers**: Docker, Kubernetes (familiar), Terraform
-- **Languages**: Python, Java, Bash/Shell, Flutter (Android)
+- **Languages**: Python, Java, Bash/Shell, Flutter, React, NodeJs, Firebase
 - **Security**: SAST/DAST, Prisma, Snyk, AWS Security Hub, CloudWatch
 - **Monitoring & Automation**: Prometheus, Splunk, GitOps, Ansible (basic), CloudTrail
 
